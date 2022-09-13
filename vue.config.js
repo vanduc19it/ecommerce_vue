@@ -4,6 +4,7 @@ module.exports = defineConfig({
 
   pluginOptions: {
     vuetify: {
+      base: 'https://vanduc19it.github.io/ecommerce_vue'
 			// https://github.com/vuetifyjs/vuetify-loader/tree/next/packages/vuetify-loader
 		}
   }
